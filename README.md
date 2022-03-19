@@ -5,4 +5,5 @@
 - 📫 Email: celsogui16@gmail.com
 - 😄 Pronomes: Ele/Dele(He/Him)
 - 👾 Interessado em GameDev para dispositivos mobile
+- 🌀 LinkedIn:https://www.linkedin.com/in/celso-guilherme-453945211/
 
