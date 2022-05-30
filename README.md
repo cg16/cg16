@@ -1,6 +1,6 @@
 ### Olá 👋
-
-- 🏢 Estudante de Analise e Desenvolvimento de Sistemas no Instituto Federal de Pernambuco
+- 🌱 Estudando Kotlin 
+- 🏢 Estudante de Analise e Desenvolvimento de Sistemas no Instituto Federal de Pernambuco(IFPE)
 - 📫 Email: celsogui16@gmail.com
 - 😄 Pronomes: Ele/Dele(He/Him)
 - 👾 Interessado em mobile programming 
