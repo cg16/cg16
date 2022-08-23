@@ -3,7 +3,7 @@
 - 🏢 Estudante de Analise e Desenvolvimento de Sistemas no Instituto Federal de Pernambuco(IFPE)
 - 📫 Email: celsogui16@gmail.com
 - 😄 Pronomes: Ele/Dele(He/Him)
-- 👾 Interessado em mobile programming 
+- 👾 Interessado em Android Development 
 - 🌀 LinkedIn: https://www.linkedin.com/in/celso-guilherme-453945211/
 
 <div align="center">
