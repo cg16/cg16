@@ -1,5 +1,5 @@
 ### Olá 👋
-- 🌱 Estudando Java & Kotlin 
+- 🌱 Estudando Java & C#
 - 🏢 Estudante de Analise e Desenvolvimento de Sistemas no Instituto Federal de Pernambuco(IFPE)
 - 📫 Email: celsogui16@gmail.com
 - 😄 Pronomes: Ele/Dele(He/Him)
