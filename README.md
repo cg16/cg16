@@ -1,10 +1,10 @@
 ### Olá 👋
 - 🌱 Estudando Java & C#(.NET)
 - 🏢 Estudante de Analise e Desenvolvimento de Sistemas no Instituto Federal de Pernambuco(IFPE)
-- 📫 Email: celsogui16@gmail.com
 - 😄 Pronomes: Ele/Dele(He/Him)
 - 👾 Interessado em Mobile App Development(Android)
 - 🌀 LinkedIn: https://www.linkedin.com/in/celso-guilherme-453945211/
+- 📫 Email: celsogui16@gmail.com
 
 <div align="center">
   <a href="https://github.com/cg16">
