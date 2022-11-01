@@ -1,8 +1,8 @@
 ### Olá 👋 eu sou Celso Guilherme
 - 🏢 Estudante de Analise e Desenvolvimento de Sistemas no Instituto Federal de Pernambuco(IFPE)
-- 🧑‍💻 Estudando Java & Web Development
+- 🧑‍💻 Estudando Java, Python, e Desenvolvimento Web
 - 😄 Pronomes: Ele/Dele(He/Him)
-- 👾 Interessado em Redes de Computadores e Desenvolvimento para Dispositivos Moveis(Android)
+- 👾 Interessado em Redes de Computadores, Automação e Desenvolvimento para Dispositivos Moveis(Android)
 - 🌀 LinkedIn: https://www.linkedin.com/in/celso-guilherme-453945211/
 - 📫 Email: celsogui16@gmail.com
 <br> </br>
