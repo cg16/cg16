@@ -2,7 +2,7 @@
 - 🏢 Estudante de Analise e Desenvolvimento de Sistemas no Instituto Federal de Pernambuco(IFPE)
 - 🧑‍💻 Estudando Python e Java
 - 😄 Pronomes: Ele/Dele(He/Him)
-- 👾 Interessado em Redes de Computadores, Automação e Desenvolvimento para Dispositivos Moveis(Android)
+- 👾 Interessado em Redes de Computadores e Automação
 - 🌀 LinkedIn: https://www.linkedin.com/in/celso-guilherme-453945211/
 - 📫 Email: celsogui16@gmail.com
 <br> </br>
