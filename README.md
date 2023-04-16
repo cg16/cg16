@@ -2,7 +2,7 @@
 - 🏢 Estudante de Analise e Desenvolvimento de Sistemas no Instituto Federal de Pernambuco(IFPE)
 - 🧑‍💻 Estudando C#
 - 😄 Pronomes: Ele/Dele(He/Him)
-- 👾 Interessado em DevOps & Mobile Development
+- 👾 Interessado em Mobile Development 
 
 - 🌀 LinkedIn: https://www.linkedin.com/in/celso-guilherme-453945211/
 - 📫 Email: celsogui16@gmail.com
