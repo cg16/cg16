@@ -3,7 +3,6 @@
 - 🧑‍💻 Estudando C# e Cloud Computing 
 - 😄 Pronomes: Ele/Dele(He/Him)
 - 👾 Interessado em Mobile Development 
-- 🔨 Atualmente desenvolvendo projetos na area de 
 
 - 🌀 LinkedIn: https://www.linkedin.com/in/celso-guilherme-453945211/
 - 📫 Email: celsogui16@gmail.com
