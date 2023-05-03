@@ -1,11 +1,12 @@
 ### Olá 👋 eu sou Celso Guilherme
--🏢 Estudante de Analise e Desenvolvimento de Sistemas no Instituto Federal de Pernambuco(IFPE)
--🧑‍💻 Estudando C#, Python
--😄 Pronomes: Ele/Dele(He/Him)
--🕹️ Interessado em Mobile Game Development
--🌀 LinkedIn: https://www.linkedin.com/in/celso-guilherme-453945211/
--📫 Email: celsogui16@gmail.com
+- 🏢 Estudante de Analise e Desenvolvimento de Sistemas no Instituto Federal de Pernambuco(IFPE)
+- 🧑‍💻 Estudando C#, Python
+- 😄 Pronomes: Ele/Dele(He/Him)
+- 🕹️ Interessado em Mobile Game Development
+- 🌀 LinkedIn: https://www.linkedin.com/in/celso-guilherme-453945211/
+- 📫 Email: celsogui16@gmail.com
 - 📱 Instagram: https://www.instagram.com/__cg16/
+
 <br> </br>
 <div align="left">
   <a href="https://github.com/cg16">
