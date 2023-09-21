@@ -7,11 +7,6 @@
 - 📫 Email: celsogui16@gmail.com
 - 📱 Instagram: https://www.instagram.com/__cg16/
 
-<br> </br>
-<div align="left">
-  <a href="https://github.com/cg16">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cg16&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
