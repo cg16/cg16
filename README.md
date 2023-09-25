@@ -1,6 +1,7 @@
 ### Olá 👋 eu sou Celso Guilherme
 - 🏢 Estudante de Analise e Desenvolvimento de Sistemas no Instituto Federal de Pernambuco(IFPE)
 - 🧑‍💻 Estudando C# & Kotlin(Software Development & Mobile Development)
+- 🧑‍💻 Entusiasta em Ciência dos Dados
 - 😄 Pronomes: Ele/Dele(He/Him)
 - 🌀 LinkedIn: https://www.linkedin.com/in/celso-guilherme-453945211/
 - 📫 Email: celsogui16@gmail.com
