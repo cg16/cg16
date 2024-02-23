@@ -1,6 +1,6 @@
 ### Olá 👋 eu sou Celso Guilherme
 - 🏢 Estudante de Analise e Desenvolvimento de Sistemas no Instituto Federal de Pernambuco(IFPE)
-- 🧑‍💻 C# & Python (Software Development)
+- 🧑‍💻 Python & Java(Software Development)
 - 🧑‍💻 Data Scientist freelancer
 - 😄 Pronomes: Ele/Dele(He/Him)
 - 🌀 LinkedIn: https://www.linkedin.com/in/celso-guilherme-453945211/
@@ -9,7 +9,7 @@
 
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
+  <img align="center" alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
   <img align="center" alt="Kotlin" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
