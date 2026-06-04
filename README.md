@@ -1,5 +1,6 @@
 ### Olá 👋 eu sou Celso Guilherme
 ADS - IFPE
+
 Treinando para tirar o certificado AWS Certified Cloud Practitioner
 Atualmente focando em:
 - Python
