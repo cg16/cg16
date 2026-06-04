@@ -1,5 +1,7 @@
 ### Olá 👋 eu sou Celso Guilherme
-Atualmente focado em:
+ADS - IFPE
+Treinando para tirar o certificado AWS Certified Cloud Practitioner
+Atualmente focando em:
 - Python
 - Java
 - SQL
