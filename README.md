@@ -4,7 +4,7 @@
 - 😄 Pronomes: Ele/Dele(He/Him)
 - 🌀 LinkedIn: https://www.linkedin.com/in/celso-guilherme-453945211/
 - 📫 Email: celsogui16@gmail.com
-- 📱 Instagram: https://www.instagram.com/__cg16/
+
 
   
 ### Tech Stacks
